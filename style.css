@@ -1,0 +1,40 @@
+/* 여기는 스타일 공통 영역 입니다 */
+/* 프로그램명  : 공통 CSS 프로그램 */
+/* 프로그램ID  : style.css */
+/* 프로그램Ver : v.20200106 */
+.sty-text-red {
+    color:red;
+    background-color:yellow;
+    text-align: center;
+  }
+  
+  .sty-text-blue {
+    color:blue;
+    background-color:yellow;
+    text-align: center;
+  }
+  
+  .sty-border-red {
+    border: 5px solid red;
+  }
+  
+  .sty-border-blue {
+    border: 5px solid blue;
+  }
+  
+  .sty-box-size {
+    width: 200px;
+    height: 200px;
+  }
+  
+  /* 바깥 공간 */
+  .sty-margin-size {
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+  
+  /* 안쪽 공간 */
+  .sty-padding-size {
+    padding-top: 50px;
+    padding-left: 50px;
+  }
